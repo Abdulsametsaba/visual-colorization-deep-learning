@@ -63,7 +63,7 @@ Eğitim sürecinde, en düşük Validation Loss değerini (0.00781) elde eden a�
 
 Test veriseti üzerinden rastgele seçilen görüntülerle yapılan çıkarım (inference) sonuçları aşağıdaki gibidir:
 
-![Test Sonuçları](Datasets/monokrom-fotoraflari.jpg)
+![Test Sonuçları](Datasets/test.png)
 
 * **Üst Satır (Gri Giriş):** Modele verilen `L` kanalı (sadece parlaklık).
 * **Orta Satır (Tahmin):** Modelin sıfırdan ürettiği `A` ve `B` kanallarının `L` ile birleştirilmesi sonucu elde edilen renkli görüntüler.
